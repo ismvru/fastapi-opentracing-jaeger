@@ -1,7 +1,7 @@
 FROM python:3-slim as wheeler
 WORKDIR /whl
-COPY req.txt /whl/
-RUN pip wheel -r req.txt
+COPY requirements.txt /whl/
+RUN pip wheel -r requirements.txt
 
 FROM python:3-slim
 WORKDIR /whl
