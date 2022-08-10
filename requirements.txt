@@ -12,7 +12,7 @@ opentelemetry-instrumentation-asgi==0.30b1
 opentelemetry-instrumentation-fastapi==0.30b1
 opentelemetry-sdk==1.11.1
 opentelemetry-semantic-conventions==0.30b1
-opentelemetry-util-http==0.30b1
+opentelemetry-util-http==0.33b0
 pydantic==1.9.1
 six==1.16.0
 sniffio==1.2.0
