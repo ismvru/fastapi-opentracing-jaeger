@@ -6,7 +6,7 @@ fastapi==0.82.0
 h11==0.13.0
 idna==3.3
 opentelemetry-api==1.12.0
-opentelemetry-exporter-jaeger-thrift==1.12.0
+opentelemetry-exporter-jaeger-thrift==1.13.0
 opentelemetry-instrumentation==0.33b0
 opentelemetry-instrumentation-asgi==0.33b0
 opentelemetry-instrumentation-fastapi==0.33b0
